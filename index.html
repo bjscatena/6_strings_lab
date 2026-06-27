@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>6 Strings Lab - Linha do Tempo dos Guitarristas Históricos</title>
+  <meta name="description" content="Explore a evolução da guitarra através dos guitarristas que moldaram a história do instrumento, com suas biografias e top 10 músicas no Spotify.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    
+    <!-- Home View containing Timeline Grid -->
+    <div id="home-view">
+      <!-- Hero Header -->
+      <header class="hero">
+        <div class="hero-background"></div>
+        <div class="hero-content">
+          <h1 class="hero-title">6 Strings <span>Lab</span></h1>
+          <p class="hero-description">
+            A linha do tempo e as obras fundamentais dos guitarristas que moldaram a história.
+          </p>
+        </div>
+      </header>
+
+      <!-- Controls: Search and Filter by Era -->
+      <section class="controls-bar" aria-label="Filtros e Busca">
+        <div class="search-box">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.637 10.637z" />
+          </svg>
+          <input type="text" id="search-input" placeholder="Buscar por guitarrista ou estilo..." aria-label="Buscar guitarrista">
+        </div>
+
+        <nav class="timeline-filter" id="era-filter" aria-label="Filtro por Era">
+          <button class="filter-btn active" data-era="all">Todas as Eras</button>
+          <button class="filter-btn" data-era="Anos 1930">Anos 30</button>
+          <button class="filter-btn" data-era="Anos 1940">Anos 40</button>
+          <button class="filter-btn" data-era="Anos 1950">Anos 50</button>
+          <button class="filter-btn" data-era="Anos 1960">Anos 60</button>
+          <button class="filter-btn" data-era="Anos 1970">Anos 70</button>
+          <button class="filter-btn" data-era="Anos 1980">Anos 80</button>
+          <button class="filter-btn" data-era="Anos 1980/90">Anos 80/90</button>
+          <button class="filter-btn" data-era="Anos 1990/2000">Anos 90/00</button>
+          <button class="filter-btn" data-era="Anos 2010">Anos 10</button>
+        </nav>
+      </section>
+
+      <!-- Guitarists List -->
+      <main class="guitarists-list" id="guitarists-container" role="feed">
+        <!-- Loading state or Dynamic rows inserted here by app.js -->
+        <div style="width: 100%; text-align: center; padding: 3rem; color: var(--text-secondary);" id="loading-indicator">
+          <p>Carregando as lendas da guitarra...</p>
+        </div>
+      </main>
+    </div>
+
+    <!-- Profile View for Individual Guitarists -->
+    <div id="profile-view" class="hidden">
+      <button class="back-btn" id="profile-back-btn" aria-label="Voltar para a linha do tempo">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+        </svg>
+        <span>Voltar para a Linha do Tempo</span>
+      </button>
+
+      <div class="profile-layout">
+        <!-- Coluna Esquerda: Foto e Era -->
+        <div class="profile-sidebar">
+          <div class="profile-photo-container">
+            <img id="profile-photo" class="profile-photo" src="" alt="Retrato do Guitarrista">
+          </div>
+          <span class="profile-era-badge" id="profile-era">Anos 1960</span>
+        </div>
+
+        <!-- Coluna Direita: Nome, Biografia, Importância e Músicas -->
+        <div class="profile-main">
+          <h1 class="profile-name" id="profile-name">Nome do Guitarrista</h1>
+          
+          <section class="profile-section">
+            <h2 class="profile-section-title">História & Trajetória</h2>
+            <p class="profile-text" id="profile-history">Carregando história...</p>
+          </section>
+
+          <section class="profile-section">
+            <h2 class="profile-section-title">Por que é Lendário?</h2>
+            <p class="profile-text" id="profile-importance">Carregando importância...</p>
+          </section>
+
+          <section class="profile-section">
+            <h2 class="profile-section-title music-title">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.586 14.424c-.18.295-.565.387-.86.207-2.377-1.454-5.37-1.783-8.893-.982-.336.077-.67-.137-.747-.473-.077-.336.137-.67.473-.747 3.85-.88 7.14-.51 9.82.1.282.2.374.585.195.895zm1.223-2.723c-.226.367-.707.487-1.074.26-2.72-1.672-6.87-2.157-10.076-1.183-.412.125-.845-.108-.97-.52-.125-.413.108-.847.52-.97 3.668-1.11 8.243-.572 11.34 1.33.367.227.487.708.26 1.074zm.106-2.833C14.475 8.8 8.79 8.612 5.503 9.61c-.506.153-1.04-.136-1.193-.642-.153-.507.137-1.04.643-1.193 3.775-1.147 10.05-.93 14.015 1.423.456.27.607.86.337 1.317-.27.457-.86.608-1.317.338z"/>
+              </svg>
+              Top 10 Músicas Fundamentais
+            </h2>
+            <div class="tracks-list" id="profile-tracks-container">
+              <!-- Faixas carregadas dinamicamente -->
+            </div>
+          </section>
+
+          <section class="profile-section">
+            <h2 class="profile-section-title video-timeline-title">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="youtube-icon" style="color: #ff0000; width: 1.5rem; height: 1.5rem; vertical-align: middle; margin-right: 0.5rem;">
+                <path d="M23.498 6.163a3.003 3.003 0 0 0-2.11-2.11C19.518 3.545 12 3.545 12 3.545s-7.518 0-9.388.508a3.003 3.003 0 0 0-2.11 2.11C0 8.033 0 12 0 12s0 3.967.502 5.837a3.003 3.003 0 0 0 2.11 2.11c1.87.508 9.388.508 9.388.508s7.518 0 9.388-.508a3.003 3.003 0 0 0 2.11-2.11C24 15.967 24 12 24 12s0-3.967-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+              </svg>
+              Vídeos
+            </h2>
+            <div class="video-timeline-container" id="profile-videos-container">
+              <!-- Vídeos carregados dinamicamente -->
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

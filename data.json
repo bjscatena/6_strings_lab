@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "django_reinhardt",
+    "name": "Django Reinhardt",
+    "era": "Anos 1930",
+    "bio": "Django Reinhardt foi o pioneiro do Jazz Cigano (Gypsy Jazz). Após um incêndio que paralisou dois dedos de sua mão esquerda, ele desenvolveu uma técnica de digitação revolucionária usando apenas dois dedos para solos rápidos e dinâmicos, criando um fraseado melódico único que influenciou gerações de guitarristas de jazz e rock.",
+    "songs": [
+      {
+        "title": "Minor Swing",
+        "url": "https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf"
+      },
+      {
+        "title": "Nuages",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Nuages"
+      },
+      {
+        "title": "Daphne",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Daphne"
+      },
+      {
+        "title": "Belleville",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Belleville"
+      },
+      {
+        "title": "Tears",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Tears"
+      },
+      {
+        "title": "Djangology",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Djangology"
+      },
+      {
+        "title": "Swing 42",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Swing%2042"
+      },
+      {
+        "title": "Douce Ambiance",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Douce%20Ambiance"
+      },
+      {
+        "title": "Django's Tiger",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Django%27s%20Tiger"
+      },
+      {
+        "title": "Cavalerie",
+        "url": "https://open.spotify.com/search/Django%20Reinhardt%20Cavalerie"
+      }
+    ],
+    "history": "Jean 'Django' Reinhardt nasceu em uma família cigana em 1910 na Bélgica. Aos 18 anos, sofreu graves queimaduras em um incêndio que paralisaram o quarto e o quinto dedo de sua mão esquerda. Apesar disso, desenvolveu um método de dedilhar inovador utilizando apenas os dedos indicador e médio para solar. Passou a maior parte de sua carreira em Paris, onde fundou o Quintette du Hot Club de France com o violonista Stephane Grappelli, tornando-se o primeiro grande jazzista europeu.",
+    "importance": "Django é o pai do Gypsy Jazz (Jazz Manouche). Ele redefiniu o violão acústico como instrumento solista no jazz, combinando a paixão da música cigana com a sofisticação do jazz americano. Sua técnica de solo rápida, precisa e improvisações melódicas extraordinárias influenciaram lendas que vão de B.B. King a Tony Iommi e Jerry Garcia.",
+    "image": "images/django_reinhardt.png",
+    "videos": [
+      {
+        "title": "Minor Swing (Gravação original 1937)",
+        "youtubeId": "uTlo809EIlo",
+        "year": "1937",
+        "description": "O clássico supremo do Gypsy Jazz, gravado em Paris com solos virtuosos de dois dedos."
+      },
+      {
+        "title": "Nuages (Gravação original 1940)",
+        "youtubeId": "DY0FF4iR9Cw",
+        "year": "1940",
+        "description": "A canção-tema da resistência francesa sob ocupação, cheia de melancolia e improvisos geniais."
+      }
+    ]
+  },
+  {
+    "id": "robert_johnson",
+    "name": "Robert Johnson",
+    "era": "Anos 1930",
+    "bio": "Considerado o pai do Delta Blues, Robert Johnson gravou apenas 29 músicas, mas sua técnica lendária de fingerpicking — tocando baixo, ritmo e solo simultaneamente — moldou a base do blues elétrico e do rock. A lenda de seu pacto na encruzilhada ('crossroads') tornou-se parte do folclore do rock.",
+    "songs": [
+      {
+        "title": "Cross Road Blues",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Cross%20Road%20Blues"
+      },
+      {
+        "title": "Sweet Home Chicago",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Sweet%20Home%20Chicago"
+      },
+      {
+        "title": "Me and the Devil Blues",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Me%20and%20the%20Devil%20Blues"
+      },
+      {
+        "title": "Love in Vain",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Love%20in%20Vain"
+      },
+      {
+        "title": "Hellhound on My Trail",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Hellhound%20on%20My%20Trail"
+      },
+      {
+        "title": "Come On in My Kitchen",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Come%20On%20in%20My%20Kitchen"
+      },
+      {
+        "title": "Terraplane Blues",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Terraplane%20Blues"
+      },
+      {
+        "title": "Ramblin' on My Mind",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Ramblin%27%20on%20My%20Mind"
+      },
+      {
+        "title": "I Believe I'll Dust My Broom",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20I%20Believe%20I%27ll%20Dust%20My%20Broom"
+      },
+      {
+        "title": "Kind Hearted Woman Blues",
+        "url": "https://open.spotify.com/search/Robert%20Johnson%20Kind%20Hearted%20Woman%20Blues"
+      }
+    ],
+    "history": "Robert Leroy Johnson nasceu em 1911 no Mississippi. Ele viveu uma vida nômade e misteriosa, gravando apenas 29 canções entre 1936 e 1937 em estúdios improvisados. Pouco se sabe sobre sua vida pessoal, o que alimentou a famosa lenda de que ele teria feito um pacto com o diabo em uma encruzilhada (crossroads) para dominar a guitarra. Faleceu precocemente em 1938, aos 27 anos.",
+    "importance": "Johnson é considerado a pedra fundamental do Delta Blues. Sua técnica de dedilhado (fingerpicking) era tão avançada que parecia que havia dois ou três guitarristas tocando juntos — mantendo o ritmo de baixo com o polegar enquanto solava e cantava ao mesmo tempo. Ele estabeleceu a estrutura rítmica e lírica que influenciou Eric Clapton, Led Zeppelin, The Rolling Stones e todo o Rock moderno.",
+    "image": "images/robert_johnson.png",
+    "videos": [
+      {
+        "title": "Cross Road Blues (Gravação original 1936)",
+        "youtubeId": "Kxi4XkIVWLQ",
+        "year": "1936",
+        "description": "A gravação que originou a lenda do pacto com o diabo, com fingerpicking complexo e vocal melancólico."
+      },
+      {
+        "title": "Sweet Home Chicago (Gravação original 1936)",
+        "youtubeId": "O8hqGu-leFc",
+        "year": "1936",
+        "description": "Um dos blues mais influentes da história, demonstrando a técnica de dedilhado simultâneo de Johnson."
+      }
+    ]
+  },
+  {
+    "id": "sister_rosetta_tharpe",
+    "name": "Sister Rosetta Tharpe",
+    "era": "Anos 1940",
+    "bio": "Conhecida como a 'Madrinha do Rock 'n' Roll', Sister Rosetta Tharpe fundiu a música Gospel com o Blues urbano na década de 1940. Ela foi pioneira no uso de guitarras elétricas com alta distorção e técnica de palhetada agressiva, influenciando nomes como Chuck Berry, Little Richard e Elvis Presley.",
+    "songs": [
+      {
+        "title": "Strange Things Happening Every Day",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Strange%20Things%20Happening%20Every%20Day"
+      },
+      {
+        "title": "Up Above My Head",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Up%20Above%20My%20Head"
+      },
+      {
+        "title": "Down by the Riverside",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Down%20by%20the%20Riverside"
+      },
+      {
+        "title": "This Train",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20This%20Train"
+      },
+      {
+        "title": "Rock Daniel",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Rock%20Daniel"
+      },
+      {
+        "title": "Didn't It Rain",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Didn%27t%20It%20Rain"
+      },
+      {
+        "title": "Jericho",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Jericho"
+      },
+      {
+        "title": "Tall Skinny Papa",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Tall%20Skinny%20Papa"
+      },
+      {
+        "title": "Singing in My Soul",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Singing%20in%20My%20Soul"
+      },
+      {
+        "title": "Lonesome Road",
+        "url": "https://open.spotify.com/search/Sister%20Rosetta%20Tharpe%20Lonesome%20Road"
+      }
+    ],
+    "history": "Sister Rosetta Tharpe nasceu em 1915 no Arkansas. Ela começou a cantar e tocar guitarra em cultos evangélicos aos quatro anos. Na década de 1930 e 1940, levou a guitarra elétrica e o blues urbano para o topo das paradas americanas, misturando o gospel religioso com a energia profana do blues e do jazz. Ela viajou o mundo influenciando jovens instrumentistas e quebrando barreiras raciais e de gênero.",
+    "importance": "Reconhecida como a 'Madrinha do Rock 'n' Roll', ela foi pioneira na guitarra elétrica distorcida, usando amplificadores saturados e uma técnica de palhetada rápida e percussiva anos antes do surgimento do rock oficial. Seu showmanship enérgico e solos viscerais moldaram diretamente o estilo de Chuck Berry, Little Richard, Keith Richards e Elvis Presley.",
+    "image": "images/sister_rosetta_tharpe.png",
+    "videos": [
+      {
+        "title": "Didn't It Rain (Live Manchester 1964)",
+        "youtubeId": "jGPx4ancGhg",
+        "year": "1964",
+        "description": "A icônica performance na estação de trem sob a chuva na Inglaterra, unindo gospel e blues-rock."
+      },
+      {
+        "title": "Rock Me (Blues Gospel 1965)",
+        "youtubeId": "p9JezItjWIU",
+        "year": "1965",
+        "description": "Performance elétrica visceral da Madrinha do Rock, com solo de guitarra que antecipou o rock n roll."
+      }
+    ]
+  },
+  {
+    "id": "les_paul",
+    "name": "Les Paul",
+    "era": "Anos 1940",
+    "bio": "Inventor da guitarra de corpo sólido e um dos pioneiros da gravação multipista, Les Paul foi muito mais do que um virtuoso guitarrista — ele foi o arquiteto tecnológico da música moderna. Seu instrumento homônimo, a Gibson Les Paul, tornou-se a guitarra elétrica mais icônica da história do rock.",
+    "songs": [
+      {
+        "title": "How High the Moon",
+        "url": "https://open.spotify.com/search/Les%20Paul%20How%20High%20the%20Moon"
+      },
+      {
+        "title": "Lover (When You're Near Me)",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Mary%20Ford%20Lover"
+      },
+      {
+        "title": "Vaya Con Dios",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Mary%20Ford%20Vaya%20Con%20Dios"
+      },
+      {
+        "title": "The World Is Waiting for the Sunrise",
+        "url": "https://open.spotify.com/search/Les%20Paul%20The%20World%20Is%20Waiting%20for%20the%20Sunrise"
+      },
+      {
+        "title": "Bye Bye Blues",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Bye%20Bye%20Blues"
+      },
+      {
+        "title": "Tiger Rag",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Tiger%20Rag"
+      },
+      {
+        "title": "Brazil",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Brazil"
+      },
+      {
+        "title": "Whispering",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Whispering"
+      },
+      {
+        "title": "Mockin' Bird Hill",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Mockin%27%20Bird%20Hill"
+      },
+      {
+        "title": "Meet Mr. Callaghan",
+        "url": "https://open.spotify.com/search/Les%20Paul%20Meet%20Mr.%20Callaghan"
+      }
+    ],
+    "history": "Lester William Polsfuss nasceu em 1915 em Waukesha, Wisconsin. Desde jovem, experimentou maneiras de amplificar o som acústico inserindo microfones e captadores nos instrumentos. Nos anos 1940, construiu a 'The Log' — uma guitarra de corpo sólido feita de um tronco de pinho — e a apresentou à Gibson, que a rejeitou inicialmente, mas a lançou com grande sucesso em 1952 como a Gibson Les Paul. Paralelamente, ele revolucionou os estúdios de gravação com o som sobreposto (overdubbing) e a fita de gravação de múltiplas faixas.",
+    "importance": "Les Paul é o pai da guitarra elétrica de corpo sólido. Sem sua invenção, não existiria a Gibson Les Paul — a guitarra de Slash, Jimmy Page, Eric Clapton e incontáveis outros lendários. Além disso, ele inventou a técnica de gravação multipista (multitrack recording), que é a base de todo estúdio de música moderno. Ele literalmente construiu os fundamentos tecnológicos sobre os quais a música popular do século XX foi erguida.",
+    "image": "images/les_paul.png",
+    "videos": [
+      {
+        "title": "How High the Moon (Gravação original 1951)",
+        "youtubeId": "NkGf1GHAxhE",
+        "year": "1951",
+        "description": "Les Paul e Mary Ford mostrando técnicas pioneiras de sobreposição de áudio e solos ultracurtos e velozes."
+      },
+      {
+        "title": "The World Is Waiting for the Sunrise (Live 1949)",
+        "youtubeId": "awjTKeS9Wvo",
+        "year": "1949",
+        "description": "Dueto lendário com Mary Ford focado na velocidade incrível do dedilhado e nas técnicas de gravação pioneiras."
+      }
+    ]
+  },
+  {
+    "id": "bb_king",
+    "name": "B.B. King",
+    "era": "Anos 1950",
+    "bio": "O 'Rei do Blues' definiu o papel da guitarra solo moderna. Com sua Gibson Lucille, ele popularizou o vibrato de mão esquerda ('butterfly vibrato'), a técnica de esticar cordas (string bending) e um fraseado melódico limpo e sofisticado, onde cada nota parecia cantar.",
+    "songs": [
+      {
+        "title": "The Thrill Is Gone",
+        "url": "https://open.spotify.com/search/B.B.%20King%20The%20Thrill%20Is%20Gone"
+      },
+      {
+        "title": "Everyday I Have the Blues",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Everyday%20I%20Have%20the%20Blues"
+      },
+      {
+        "title": "Lucille",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Lucille"
+      },
+      {
+        "title": "Sweet Little Angel",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Sweet%20Little%20Angel"
+      },
+      {
+        "title": "Three O'Clock Blues",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Three%20O%27Clock%20Blues"
+      },
+      {
+        "title": "Rock Me Baby",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Rock%20Me%20Baby"
+      },
+      {
+        "title": "Payin' the Cost to Be the Boss",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Payin%27%20the%20Cost%20to%20Be%20the%20Boss"
+      },
+      {
+        "title": "Why I Sing the Blues",
+        "url": "https://open.spotify.com/search/B.B.%20King%20Why%20I%20Sing%20the%20Blues"
+      },
+      {
+        "title": "You Upset Me Baby",
+        "url": "https://open.spotify.com/search/B.B.%20King%20You%20Upset%20Me%20Baby"
+      },
+      {
+        "title": "How Blue Can You Get",
+        "url": "https://open.spotify.com/search/B.B.%20King%20How%20Blue%20Can%20You%20Get"
+      }
+    ],
+    "history": "Riley Ben King nasceu em 1925 no Mississippi. Começou sua carreira como DJ de rádio em Memphis antes de explodir como guitarrista e cantor de blues. Batizou sua guitarra favorita de 'Lucille' após escapar de um incêndio causado por uma briga de bar por causa de uma mulher com esse nome. King passou décadas fazendo mais de 300 shows por ano, tornando-se o embaixador mundial do blues até seu falecimento em 2015.",
+    "importance": "B.B. King definiu a linguagem da guitarra solo moderna. Ele criou o vibrato de mão esquerda ('vibrato borboleta') e aperfeiçoou o string bending (esticar cordas) para imitar a voz humana. Seu estilo limpo, econômico e focado na escolha perfeita das notas provou que uma única nota bem posicionada vale mais do que centenas tocadas em alta velocidade.",
+    "image": "images/bb_king.png",
+    "videos": [
+      {
+        "title": "The Thrill Is Gone (Live at Montreux 1993)",
+        "youtubeId": "4fk2prKnYnI",
+        "year": "1993",
+        "description": "Performance inesquecível do Rei do Blues demonstrando seu 'vibrato borboleta' e controle emocional."
+      },
+      {
+        "title": "Lucille (Live performance)",
+        "youtubeId": "IN6mcm3fWSY",
+        "year": "1980",
+        "description": "B.B. King tocando com sua famosa Gibson Lucille, demonstrando seu vibrato único e fraseado melódico."
+      }
+    ]
+  },
+  {
+    "id": "chuck_berry",
+    "name": "Chuck Berry",
+    "era": "Anos 1950",
+    "bio": "O grande arquiteto do Rock 'n' Roll combinou riffs rápidos de duas notas (double stops) com ritmos dançantes e letras brilhantes. Riffs como o de 'Johnny B. Goode' tornaram-se o modelo padrão para qualquer guitarrista de rock que viria depois.",
+    "songs": [
+      {
+        "title": "Johnny B. Goode",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Johnny%20B.%20Goode"
+      },
+      {
+        "title": "Maybellene",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Maybellene"
+      },
+      {
+        "title": "Roll Over Beethoven",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Roll%20Over%20Beethoven"
+      },
+      {
+        "title": "Rock and Roll Music",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Rock%20and%20Roll%20Music"
+      },
+      {
+        "title": "Sweet Little Sixteen",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Sweet%20Little%20Sixteen"
+      },
+      {
+        "title": "School Days",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20School%20Days"
+      },
+      {
+        "title": "Carol",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Carol"
+      },
+      {
+        "title": "Promised Land",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Promised%20Land"
+      },
+      {
+        "title": "Memphis, Tennessee",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20Memphis%2C%20Tennessee"
+      },
+      {
+        "title": "No Particular Place to Go",
+        "url": "https://open.spotify.com/search/Chuck%20Berry%20No%20Particular%20Place%20to%20Go"
+      }
+    ],
+    "history": "Charles Edward Anderson Berry nasceu em 1926 em St. Louis. Misturando ritmos de country e R&B, ele se tornou uma das maiores estrelas da década de 1950 com sucessos como 'Maybellene' e 'Johnny B. Goode'. Conhecido por suas performances elétricas que incluíam o famoso 'duckwalk' (passo do pato), Berry foi uma força motriz na definição da cultura jovem e do rock no século XX.",
+    "importance": "Chuck Berry foi o arquiteto do riff de introdução do Rock 'n' Roll. Ele popularizou os riffs de duas notas simultâneas (double stops) e a base rítmica acelerada que virou o padrão do rock de garagem. Mais do que qualquer outro, ele uniu a composição de letras inteligentes ao protagonismo da guitarra elétrica na música popular.",
+    "image": "images/chuck_berry.png",
+    "videos": [
+      {
+        "title": "Johnny B. Goode (Live 1972)",
+        "youtubeId": "6swgiM9vSEE",
+        "year": "1972",
+        "description": "A performance seminal do maior riff da história do Rock 'n' Roll, definindo a cultura jovem da era."
+      },
+      {
+        "title": "Roll Over Beethoven (Live 1972)",
+        "youtubeId": "LvcROx4cxng",
+        "year": "1972",
+        "description": "Show eletrizante mostrando seu carisma e o lendário passo do pato (duckwalk) no palco."
+      }
+    ]
+  },
+  {
+    "id": "jimi_hendrix",
+    "name": "Jimi Hendrix",
+    "era": "Anos 1960",
+    "bio": "Amplamente considerado o maior guitarrista de todos os tempos, Hendrix revolucionou o instrumento ao integrar feedback de amplificador, distorção de fuzz, pedal wah-wah e uma abordagem ultra-expressiva que fundia blues, psicodelia e virtuosismo técnico absoluto.",
+    "songs": [
+      {
+        "title": "Purple Haze",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Purple%20Haze"
+      },
+      {
+        "title": "Voodoo Child (Slight Return)",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Voodoo%20Child%20%28Slight%20Return%29"
+      },
+      {
+        "title": "All Along the Watchtower",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20All%20Along%20the%20Watchtower"
+      },
+      {
+        "title": "Little Wing",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Little%20Wing"
+      },
+      {
+        "title": "Hey Joe",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Hey%20Joe"
+      },
+      {
+        "title": "The Wind Cries Mary",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20The%20Wind%20Cries%20Mary"
+      },
+      {
+        "title": "Foxey Lady",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Foxey%20Lady"
+      },
+      {
+        "title": "Castles Made of Sand",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Castles%20Made%20of%20Sand"
+      },
+      {
+        "title": "Bold as Love",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Bold%20as%20Love"
+      },
+      {
+        "title": "Red House",
+        "url": "https://open.spotify.com/search/Jimi%20Hendrix%20Red%20House"
+      }
+    ],
+    "history": "James Marshall Hendrix nasceu em 1942 em Seattle. Após jogar como guitarrista de apoio para artistas de R&B, ele se mudou para a Inglaterra em 1966, onde formou o The Jimi Hendrix Experience. Ele assombrou o mundo com sua apresentação icônica no Festival de Monterey em 1967 (onde queimou sua guitarra) e no Woodstock em 1969. Faleceu em 1970, deixando um legado monumental construído em apenas quatro anos de fama mundial.",
+    "importance": "Hendrix é amplamente aclamado como o guitarrista mais influente da história. Ele transformou a guitarra elétrica de um instrumento tradicional para um gerador de efeitos sonoros cósmicos, incorporando feedback controlado, distorção extrema (fuzz), pedal wah-wah e a técnica de tocar com o polegar esquerdo sobre o braço da guitarra para combinar base e solo de forma orquestral.",
+    "image": "images/jimi_hendrix.png",
+    "videos": [
+      {
+        "title": "Star Spangled Banner (Live at Woodstock 1969)",
+        "youtubeId": "sjzZh6-h9fM",
+        "year": "1969",
+        "description": "A lendária reinterpretação distorcida do hino dos EUA que capturou o caos e protesto da Guerra do Vietnã."
+      }
+    ]
+  },
+  {
+    "id": "keith_richards",
+    "name": "Keith Richards",
+    "era": "Anos 1960",
+    "bio": "O riffmaster dos Rolling Stones, Keith Richards definiu o groove do rock com riffs imortais e uma abordagem crua, econômica e swagger que prova: o que você não toca importa tanto quanto o que você toca. Seu uso do open tuning (afinação aberta) em Telecasters criou uma identidade sonora inimitável.",
+    "songs": [
+      {
+        "title": "(I Can't Get No) Satisfaction",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Satisfaction"
+      },
+      {
+        "title": "Gimme Shelter",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Gimme%20Shelter"
+      },
+      {
+        "title": "Paint It Black",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Paint%20It%20Black"
+      },
+      {
+        "title": "Start Me Up",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Start%20Me%20Up"
+      },
+      {
+        "title": "Brown Sugar",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Brown%20Sugar"
+      },
+      {
+        "title": "Sympathy for the Devil",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Sympathy%20for%20the%20Devil"
+      },
+      {
+        "title": "Jumpin' Jack Flash",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Jumpin%27%20Jack%20Flash"
+      },
+      {
+        "title": "Wild Horses",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Wild%20Horses"
+      },
+      {
+        "title": "Honky Tonk Women",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Honky%20Tonk%20Women"
+      },
+      {
+        "title": "Miss You",
+        "url": "https://open.spotify.com/search/Rolling%20Stones%20Miss%20You"
+      }
+    ],
+    "history": "Keith Richards nasceu em 1943 em Dartford, Inglaterra. Desde cedo, obcecado pelo blues americano de Chuck Berry e Robert Johnson, ele co-fundou os Rolling Stones com Mick Jagger. A dupla de compositores Richards-Jagger tornou-se uma das mais prolíficas da história do rock. Keith ficou famoso tanto por seus riffs inconfundíveis quanto pelo seu estilo de vida turbulento — chegando a dormir enquanto gravava, despertando e completando riffs que se tornariam clássicos.",
+    "importance": "Keith Richards é o mestre do riff de rock com groove e swagger. Sua técnica de 'open G tuning' (removendo a sexta corda e afinando as demais para um acorde aberto de Sol) criou os riffs mais reconhecíveis da história — como 'Honky Tonk Women' e 'Start Me Up'. Ele provou que simplicidade rítmica, groove e atitude são mais poderosos do que técnica pura.",
+    "image": "images/keith_richards.png",
+    "videos": [
+      {
+        "title": "Gimme Shelter (Live at The Marquee 1995)",
+        "youtubeId": "8kl6q_9qZOs",
+        "year": "1995",
+        "description": "Keith Richards abrindo o show dos Stones com um dos riffs de guitarra mais tensos e aclamados do rock."
+      },
+      {
+        "title": "Sympathy for the Devil (Live 2013)",
+        "youtubeId": "ZRXGsPBUV5g",
+        "year": "2013",
+        "description": "Keith Richards provando que atitude e timing valem mais do que notas em alta velocidade no palco."
+      }
+    ]
+  },
+  {
+    "id": "carlos_santana",
+    "name": "Carlos Santana",
+    "era": "Anos 1960",
+    "bio": "Carlos Santana fundiu o blues psicodélico americano com ritmos afro-cubanos e latinos, criando um som imediatamente reconhecível. Seu sustain longo e melódico, fraseado lírico e use de escalas modais sobre grooves de percussão latina definiram um gênero inteiramente novo.",
+    "songs": [
+      {
+        "title": "Oye Como Va",
+        "url": "https://open.spotify.com/search/Santana%20Oye%20Como%20Va"
+      },
+      {
+        "title": "Smooth",
+        "url": "https://open.spotify.com/search/Santana%20Smooth"
+      },
+      {
+        "title": "Black Magic Woman",
+        "url": "https://open.spotify.com/search/Santana%20Black%20Magic%20Woman"
+      },
+      {
+        "title": "Maria Maria",
+        "url": "https://open.spotify.com/search/Santana%20Maria%20Maria"
+      },
+      {
+        "title": "Evil Ways",
+        "url": "https://open.spotify.com/search/Santana%20Evil%20Ways"
+      },
+      {
+        "title": "Soul Sacrifice",
+        "url": "https://open.spotify.com/search/Santana%20Soul%20Sacrifice"
+      },
+      {
+        "title": "Europa",
+        "url": "https://open.spotify.com/search/Santana%20Europa"
+      },
+      {
+        "title": "Samba Pa Ti",
+        "url": "https://open.spotify.com/search/Santana%20Samba%20Pa%20Ti"
+      },
+      {
+        "title": "Corazon Espinado",
+        "url": "https://open.spotify.com/search/Santana%20Corazon%20Espinado"
+      },
+      {
+        "title": "Winning",
+        "url": "https://open.spotify.com/search/Santana%20Winning"
+      }
+    ],
+    "history": "Carlos Augusto Santana nasceu em 1947 em Autlán de Navarro, México. Cresceu em Tijuana aprendendo violino e guitarra com seu pai, músico de mariachi. Emigrou para São Francisco nos anos 1960, onde fundiu o rock psicodélico da Costa Oeste com a rica herança musical latino-americana. Sua performance explosiva no festival de Woodstock em 1969 o revelou ao mundo — e ele não olhou mais para trás, tornando-se um dos artistas de maior sucesso de todos os tempos.",
+    "importance": "Santana criou uma linguagem musical única ao unir o blues elétrico americano com ritmos afro-cubanos e sonoridades da música latina. Seu timbre de guitarra — sustentado, quente e vocal, frequentemente obtido com uma guitarra PRS tocando em amplificadores Mesa Boogie — é imediatamente reconhecível. Ele provou que a guitarra pode ser um veículo para expressão espiritual e cultural, transcendendo fronteiras geográficas e gerações.",
+    "image": "images/carlos_santana.png",
+    "videos": [
+      {
+        "title": "Soul Sacrifice (Live at Woodstock 1969)",
+        "youtubeId": "JaaT_HRb4GU",
+        "year": "1969",
+        "description": "A frenética performance que colocou Santana no mapa do rock mundial, unindo percussão latina e blues."
+      },
+      {
+        "title": "Smooth (Live with Rob Thomas 1999)",
+        "youtubeId": "28E8WKZ614w",
+        "year": "1999",
+        "description": "O megahit que arrebatou múltiplos Grammys na virada do milênio, performado ao vivo com energia contagiante."
+      }
+    ]
+  },
+  {
+    "id": "eric_clapton",
+    "name": "Eric Clapton",
+    "era": "Anos 1960",
+    "bio": "Apelidado de 'Slowhand', Clapton foi o catalisador do Blues-Rock britânico com o Yardbirds e Cream. Ele definiu o timbre clássico de guitarra ('Woman Tone') combinando uma Les Paul com amplificadores Marshall no talo, além de criar solos focados em melodia e feeling.",
+    "songs": [
+      {
+        "title": "Layla",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Layla"
+      },
+      {
+        "title": "Tears in Heaven",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Tears%20in%20Heaven"
+      },
+      {
+        "title": "Cocaine",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Cocaine"
+      },
+      {
+        "title": "Wonderful Tonight",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Wonderful%20Tonight"
+      },
+      {
+        "title": "Crossroads",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Crossroads"
+      },
+      {
+        "title": "Sunshine of Your Love",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Sunshine%20of%20Your%20Love"
+      },
+      {
+        "title": "White Room",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20White%20Room"
+      },
+      {
+        "title": "I Shot the Sheriff",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20I%20Shot%20the%20Sheriff"
+      },
+      {
+        "title": "Change the World",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Change%20the%20World"
+      },
+      {
+        "title": "Badge",
+        "url": "https://open.spotify.com/search/Eric%20Clapton%20Badge"
+      }
+    ],
+    "history": "Eric Patrick Clapton nasceu em 1945 na Inglaterra. Ele ganhou fama na década de 1960 tocando com os Yardbirds, John Mayall & the Bluesbreakers, e depois co-fundando o Cream, o primeiro supergrupo do rock. Famoso por sua dedicação ao blues tradicional, Clapton teve uma carreira solo brilhante marcada por superações pessoais e sucessos icônicos como 'Layla' e 'Tears in Heaven'.",
+    "importance": "Apelidado de 'Slowhand', Clapton foi um dos principais responsáveis pela popularização do blues-rock britânico. Ele definiu o timbre clássico de rock ('Woman Tone') ao ligar uma Gibson Les Paul em amplificadores Marshall saturados. Seu estilo focado no fraseado melódico, bends emotivos e controle preciso de vibrato criou uma escola inteira de guitarristas.",
+    "image": "images/eric_clapton.png",
+    "videos": []
+  },
+  {
+    "id": "jimmy_page",
+    "name": "Jimmy Page",
+    "era": "Anos 1970",
+    "bio": "O líder espiritual e guitarrista do Led Zeppelin é o maior construtor de riffs pesados da história. Sua abordagem incluía afinações alternativas, o uso de arco de violino na guitarra e técnicas inovadoras de gravação e produção que expandiram os horizontes do Hard Rock.",
+    "songs": [
+      {
+        "title": "Stairway to Heaven",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Stairway%20to%20Heaven"
+      },
+      {
+        "title": "Whole Lotta Love",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Whole%20Lotta%20Love"
+      },
+      {
+        "title": "Kashmir",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Kashmir"
+      },
+      {
+        "title": "Black Dog",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Black%20Dog"
+      },
+      {
+        "title": "Heartbreaker",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Heartbreaker"
+      },
+      {
+        "title": "Dazed and Confused",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Dazed%20and%20Confused"
+      },
+      {
+        "title": "Since I've Been Loving You",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Since%20I%27ve%20Been%20Loving%20You"
+      },
+      {
+        "title": "Communication Breakdown",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Communication%20Breakdown"
+      },
+      {
+        "title": "Ramble On",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Ramble%20On"
+      },
+      {
+        "title": "Over the Hills and Far Away",
+        "url": "https://open.spotify.com/search/Jimmy%20Page%20Over%20the%20Hills%20and%20Far%20Away"
+      }
+    ],
+    "history": "James Patrick Page nasceu em 1944 na Inglaterra. Começou como um dos guitarristas de estúdio mais requisitados de Londres antes de se juntar ao Yardbirds. Em 1968, fundou o Led Zeppelin, banda que dominou a década de 1970 e se tornou um dos pilares do rock pesado. Page atuou como o principal compositor, guitarrista e produtor da banda, ditando os rumos do rock de arena.",
+    "importance": "Jimmy Page é o maior construtor de riffs do rock. Suas inovações incluem o uso de um arco de violino para tocar a guitarra, afinações alternativas (como DADGAD), e técnicas revolucionárias de microfonação em estúdio que deram ao Led Zeppelin um som gigantesco e tridimensional. Ele fundiu o blues elétrico com folk acústico e música oriental de forma inédita.",
+    "image": "images/jimmy_page.png",
+    "videos": [
+      {
+        "title": "Stairway to Heaven (Live O2 Arena 2007)",
+        "youtubeId": "Ly6ZhQVnVow",
+        "year": "2007",
+        "description": "A reunião histórica do Led Zeppelin no O2 Arena, com a lendária guitarra de dois braços double neck."
+      },
+      {
+        "title": "Whole Lotta Love (Live BBC 1969)",
+        "youtubeId": "fIQMktyP90s",
+        "year": "1969",
+        "description": "Page demonstrando sua força na guitarra rítmica no início da carreira do Led Zeppelin."
+      }
+    ]
+  },
+  {
+    "id": "david_gilmour",
+    "name": "David Gilmour",
+    "era": "Anos 1970",
+    "bio": "A voz melódica do Pink Floyd é sinônimo de feeling, sustentação (sustain) e precisão de bends. Seus solos em 'Comfortably Numb' e 'Time' são verdadeiras composições dentro da música, demonstrando o poder do controle de tom, escolha de notas e modulação espacial.",
+    "songs": [
+      {
+        "title": "Comfortably Numb",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Comfortably%20Numb"
+      },
+      {
+        "title": "Wish You Were Here",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Wish%20You%20Were%20Here"
+      },
+      {
+        "title": "Time",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Time"
+      },
+      {
+        "title": "Shine On You Crazy Diamond",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Shine%20On%20You%20Crazy%20Diamond"
+      },
+      {
+        "title": "Money",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Money"
+      },
+      {
+        "title": "Another Brick in the Wall, Pt. 2",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Another%20Brick%20in%20the%20Wall%2C%20Pt.%202"
+      },
+      {
+        "title": "High Hopes",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20High%20Hopes"
+      },
+      {
+        "title": "Echoes",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Echoes"
+      },
+      {
+        "title": "Marooned",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Marooned"
+      },
+      {
+        "title": "Sorrow",
+        "url": "https://open.spotify.com/search/David%20Gilmour%20Sorrow"
+      }
+    ],
+    "history": "David Jon Gilmour nasceu em 1946 na Inglaterra. Juntou-se ao Pink Floyd em 1967 para substituir o genial, mas instável, Syd Barrett. Com sua entrada, a banda evoluiu do psicodélico para o rock progressivo conceitual, lançando álbuns lendários como 'The Dark Side of the Moon' e 'The Wall'. A voz lírica da guitarra de Gilmour e seu vocal suave tornaram-se a assinatura emocional do grupo.",
+    "importance": "Gilmour é o mestre incontestável do timbre espacial e do 'feeling'. Seus solos, como o de 'Comfortably Numb' e 'Time', são composições perfeitas que contam uma história. Ele é famoso por bends cirúrgicos, uso magistral de efeitos como delay, chorus e pedais fuzz, além de um sustain dramático que faz cada nota ecoar com profunda emoção.",
+    "image": "images/david_gilmour.png",
+    "videos": [
+      {
+        "title": "Comfortably Numb (Live at Pompeii 2016)",
+        "youtubeId": "eHKG7EMxWW8",
+        "year": "2016",
+        "description": "O solo final nesta performance é aclamado mundialmente como o melhor solo de guitarra da história do rock."
+      },
+      {
+        "title": "Wish You Were Here (Live at Pompeii 2016)",
+        "youtubeId": "84Tq-eAJIk4",
+        "year": "2016",
+        "description": "Apresentação emocionante no anfiteatro romano de Pompeia, palco clássico do Pink Floyd."
+      }
+    ]
+  },
+  {
+    "id": "tony_iommi",
+    "name": "Tony Iommi",
+    "era": "Anos 1970",
+    "bio": "Após perder as pontas dos dedos em um acidente industrial, Tony Iommi usou próteses de plástico e afundou a afinação de sua guitarra para facilitar os bends, criando acidentalmente os riffs sombrios e pesados que deram origem ao Heavy Metal com o Black Sabbath.",
+    "songs": [
+      {
+        "title": "Paranoid",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Paranoid"
+      },
+      {
+        "title": "Iron Man",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Iron%20Man"
+      },
+      {
+        "title": "War Pigs",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20War%20Pigs"
+      },
+      {
+        "title": "Black Sabbath",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Black%20Sabbath"
+      },
+      {
+        "title": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Sabbath%20Bloody%20Sabbath"
+      },
+      {
+        "title": "N.I.B.",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20N.I.B."
+      },
+      {
+        "title": "Children of the Grave",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Children%20of%20the%20Grave"
+      },
+      {
+        "title": "Heaven and Hell",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Heaven%20and%20Hell"
+      },
+      {
+        "title": "Into the Void",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Into%20the%20Void"
+      },
+      {
+        "title": "Supernaut",
+        "url": "https://open.spotify.com/search/Tony%20Iommi%20Supernaut"
+      }
+    ],
+    "history": "Anthony Frank Iommi nasceu em 1948 em Birmingham, Inglaterra. Aos 17 anos, em seu último dia de trabalho em uma metalúrgica, perdeu as pontas dos dedos médio e anelar da mão direita. Sendo canhoto, isso parecia o fim de sua carreira. No entanto, ele criou próteses caseiras de plástico derretido cobertas de couro e continuou a tocar. Em 1968, fundou o Black Sabbath, definindo o som pesado do rock.",
+    "importance": "Tony Iommi é o pai espiritual do Heavy Metal. Para facilitar os bends com suas próteses, ele reduziu a afinação de sua guitarra (tuning down para C# e D#) e usou cordas mais leves. Isso, combinado com amplificadores de alto ganho e o uso insistente do trítono (o intervalo musical 'do diabo'), criou riffs sombrios, pesados e monolíticos que formaram a base de todos os subgêneros do metal.",
+    "image": "images/tony_iommi.png",
+    "videos": [
+      {
+        "title": "Paranoid (Live 1970)",
+        "youtubeId": "cen1SvpTsYk",
+        "year": "1970",
+        "description": "Apresentação de TV clássica do Sabbath performando seu maior clássico com ritmo furioso."
+      }
+    ]
+  },
+  {
+    "id": "angus_young",
+    "name": "Angus Young",
+    "era": "Anos 1970",
+    "bio": "O guitarrista do AC/DC, sempre vestido de colegial, é o mestre do riff de rock pesado simples e devastador. Angus definiu a energia crua do hard rock com solos de pentatônica em modo frenético e riffs de power chord que fazem qualquer estádio explodir.",
+    "songs": [
+      {
+        "title": "Highway to Hell",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Highway%20to%20Hell"
+      },
+      {
+        "title": "Back in Black",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Back%20in%20Black"
+      },
+      {
+        "title": "Thunderstruck",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Thunderstruck"
+      },
+      {
+        "title": "Shoot to Thrill",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Shoot%20to%20Thrill"
+      },
+      {
+        "title": "You Shook Me All Night Long",
+        "url": "https://open.spotify.com/search/AC%2FDC%20You%20Shook%20Me%20All%20Night%20Long"
+      },
+      {
+        "title": "Hells Bells",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Hells%20Bells"
+      },
+      {
+        "title": "T.N.T.",
+        "url": "https://open.spotify.com/search/AC%2FDC%20TNT"
+      },
+      {
+        "title": "Whole Lotta Rosie",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Whole%20Lotta%20Rosie"
+      },
+      {
+        "title": "Rock and Roll Ain't Noise Pollution",
+        "url": "https://open.spotify.com/search/AC%2FDC%20Rock%20and%20Roll%20Ain%27t%20Noise%20Pollution"
+      },
+      {
+        "title": "For Those About to Rock",
+        "url": "https://open.spotify.com/search/AC%2FDC%20For%20Those%20About%20to%20Rock"
+      }
+    ],
+    "history": "Angus McKinnon Young nasceu em 1955 em Glasgow, Escócia, e emigrou para a Austrália na infância. Com seu irmão Malcolm Young, fundou o AC/DC em 1973 em Sydney. A banda rapidamente se tornou um dos maiores nomes do hard rock mundial, principalmente após o álbum 'Back in Black' de 1980 — o segundo álbum mais vendido da história da música. Angus é conhecido por seus shows de energia extrema, tocando solos enquanto se arrasta pelo palco.",
+    "importance": "Angus Young é o mestre do riff de poder simples e infalível. Sua filosofia musical — velocidade, energia, economia e impacto — define a essência do hard rock de arena. Sua técnica de introdução em 'Thunderstruck' (single-note picking em alta velocidade) e seus solos de pentatônica enlouquecidos com vibrato e bends provam que o feeling e a energia superam qualquer exercício técnico.",
+    "image": "images/angus_young.png",
+    "videos": [
+      {
+        "title": "Highway to Hell (Live at River Plate 2009)",
+        "youtubeId": "gEPmA3USJdI",
+        "year": "2009",
+        "description": "A energia eletrizante de 70 mil fãs argentinos pulando ao ritmo da guitarra de Angus vestido de colegial."
+      },
+      {
+        "title": "Thunderstruck (Live Donington 1991)",
+        "youtubeId": "v2AC41dglnM",
+        "year": "1991",
+        "description": "O dedilhado veloz e rítmico da introdução que se tornou marca registrada da técnica de Angus Young."
+      }
+    ]
+  },
+  {
+    "id": "mark_knopfler",
+    "name": "Mark Knopfler",
+    "era": "Anos 1970",
+    "bio": "Fundador e guitarrista do Dire Straits, Mark Knopfler é um dos poucos grandes guitarristas de rock a rejeitar a palheta, tocando exclusivamente com os dedos. Seu estilo fingerstyle criou um timbre único, quente e dinâmico que distinguiu o Dire Straits em uma era de guitarra pesada.",
+    "songs": [
+      {
+        "title": "Sultans of Swing",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Sultans%20of%20Swing"
+      },
+      {
+        "title": "Money for Nothing",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Money%20for%20Nothing"
+      },
+      {
+        "title": "Romeo and Juliet",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Romeo%20and%20Juliet"
+      },
+      {
+        "title": "Brothers in Arms",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Brothers%20in%20Arms"
+      },
+      {
+        "title": "Tunnel of Love",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Tunnel%20of%20Love"
+      },
+      {
+        "title": "Telegraph Road",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Telegraph%20Road"
+      },
+      {
+        "title": "Private Investigations",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Private%20Investigations"
+      },
+      {
+        "title": "So Far Away",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20So%20Far%20Away"
+      },
+      {
+        "title": "Ride Across the River",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Ride%20Across%20the%20River"
+      },
+      {
+        "title": "Why Worry",
+        "url": "https://open.spotify.com/search/Dire%20Straits%20Why%20Worry"
+      }
+    ],
+    "history": "Mark Knopfler nasceu em 1949 em Glasgow, Escócia. Cresceu no nordeste da Inglaterra e fundou o Dire Straits em Londres em 1977. O álbum de estreia da banda foi um sucesso imediato com 'Sultans of Swing'. Em 1985, o álbum 'Brothers in Arms' vendeu mais de 30 milhões de cópias, tornando-se um dos mais vendidos da história. Knopfler também fez uma brilhante carreira solo e composições para cinema.",
+    "importance": "Mark Knopfler é o mestre do fingerstyle em guitarra elétrica. Sua técnica sem palheta cria um ataque dinâmico único — mais suave e quente nos accordes, mais preciso e articulado nos solos. Ele criou um som inimitável ao usar Fender Stratocaster vintage nos amplificadores Marshall, com um fraseado que se assemelha à narração de uma história lírica e emocional.",
+    "image": "images/mark_knopfler.png",
+    "videos": [
+      {
+        "title": "Sultans of Swing (Dire Straits Live Alchemy 1983)",
+        "youtubeId": "8Pa9x9fZBtY",
+        "year": "1983",
+        "description": "O solo final estendido tocado em técnica fingerstyle (sem palheta) é reverenciado como uma obra de arte."
+      },
+      {
+        "title": "Money for Nothing (Dire Straits Live Wembley 1985)",
+        "youtubeId": "wTP2RUD_cL0",
+        "year": "1985",
+        "description": "O enérgico riff tocado na abertura histórica do festival Live Aid em Londres."
+      }
+    ]
+  },
+  {
+    "id": "stevie_ray_vaughan",
+    "name": "Stevie Ray Vaughan",
+    "era": "Anos 1980",
+    "bio": "Stevie Ray Vaughan ressuscitou o blues elétrico nos anos 80 com uma intensidade e poder físico nunca antes vistos. Tocando cordas pesadíssimas (.013) em afinação baixa com força bruta e feeling absoluto, ele provou que o blues era tão vivo quanto nunca esteve.",
+    "songs": [
+      {
+        "title": "Pride and Joy",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Pride%20and%20Joy"
+      },
+      {
+        "title": "Texas Flood",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Texas%20Flood"
+      },
+      {
+        "title": "Couldn't Stand the Weather",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Couldn%27t%20Stand%20the%20Weather"
+      },
+      {
+        "title": "Lenny",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Lenny"
+      },
+      {
+        "title": "Little Wing",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Little%20Wing"
+      },
+      {
+        "title": "Voodoo Chile",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Voodoo%20Chile"
+      },
+      {
+        "title": "Cold Shot",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Cold%20Shot"
+      },
+      {
+        "title": "The Sky Is Crying",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20The%20Sky%20Is%20Crying"
+      },
+      {
+        "title": "Crossfire",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Crossfire"
+      },
+      {
+        "title": "Riviera Paradise",
+        "url": "https://open.spotify.com/search/Stevie%20Ray%20Vaughan%20Riviera%20Paradise"
+      }
+    ],
+    "history": "Stephen Ray Vaughan nasceu em 1954 em Dallas, Texas. Cresceu obcecado pelo blues de Jimi Hendrix, Albert King e Muddy Waters. Com sua banda Double Trouble, gravou o álbum 'Texas Flood' em 1983, que explodiu no cenário musical e deu início a um renascimento do blues. Sua vida foi marcada por batalhas contra o álcool e as drogas, das quais se recuperou poucos anos antes de sua trágica morte em um acidente de helicóptero em 1990, aos 35 anos.",
+    "importance": "Stevie Ray Vaughan foi o maior responsável pelo renascimento do blues nos anos 1980. Tocando com cordas extrapeadas (.013) sob afinação meio-tom abaixo — exigindo força física enorme — ele produzia um som poderoso, encorpado e cheio de sustain que nenhum outro conseguia replicar. Seu vibrato furioso, bends precisos e técnica de fingerpicking misturada à palheta criaram um estilo completamente original.",
+    "image": "images/stevie_ray_vaughan.png",
+    "videos": [
+      {
+        "title": "Texas Flood (Live at El Mocambo 1983)",
+        "youtubeId": "KC5H9P4F5Uk",
+        "year": "1983",
+        "description": "A lendária performance onde SRV toca a pesada Fender Stratocaster com força e virtuosismo incomparáveis."
+      }
+    ]
+  },
+  {
+    "id": "eddie_van_halen",
+    "name": "Eddie Van Halen",
+    "era": "Anos 1980",
+    "bio": "Eddie explodiu no cenário musical em 1978 com o solo instrumental 'Eruption', redefinindo a guitarra com a técnica de tapping de duas mãos, harmônicos artificiais extremos e uma abordagem DIY para fabricação de guitarras (como a famosa Frankenstrat).",
+    "songs": [
+      {
+        "title": "Eruption",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Eruption"
+      },
+      {
+        "title": "Ain't Talkin' 'Bout Love",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Ain%27t%20Talkin%27%20%27Bout%20Love"
+      },
+      {
+        "title": "Panama",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Panama"
+      },
+      {
+        "title": "Hot for Teacher",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Hot%20for%20Teacher"
+      },
+      {
+        "title": "Jump",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Jump"
+      },
+      {
+        "title": "Runnin' With the Devil",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Runnin%27%20With%20the%20Devil"
+      },
+      {
+        "title": "Unchained",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Unchained"
+      },
+      {
+        "title": "Mean Street",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Mean%20Street"
+      },
+      {
+        "title": "Dance the Night Away",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20Dance%20the%20Night%20Away"
+      },
+      {
+        "title": "You Really Got Me",
+        "url": "https://open.spotify.com/search/Eddie%20Van%20Halen%20You%20Really%20Got%20Me"
+      }
+    ],
+    "history": "Edward Lodewijk Van Halen nasceu em 1955 na Holanda e mudou-se jovem para a Califórnia. Com seu irmão Alex na bateria, formou a banda Van Halen nos anos 1970. Em 1978, o solo 'Eruption' chocou a comunidade musical com uma velocidade e técnica nunca antes vistas. Eddie tornou-se o maior ícone da guitarra nos anos 80, combinando virtuosismo extremo com canções pop de enorme sucesso comercial.",
+    "importance": "Eddie revolucionou a guitarra elétrica no final da década de 1970. Ele popularizou a técnica de tapping de duas mãos, harmônicos artificiais agudos e o uso dinâmico da ponte Whammy bar. Ele também foi pioneiro do movimento DIY de guitarras ao criar a 'Frankenstrat' (corpo de Stratocaster com captador humbucker de Gibson), mudando a indústria de fabricação de instrumentos para sempre.",
+    "image": "images/eddie_van_halen.png",
+    "videos": [
+      {
+        "title": "Jump (Official Music Video 1984)",
+        "youtubeId": "SwYN7mTi6HM",
+        "year": "1984",
+        "description": "Eddie combinando sintetizadores pop com solos velozes e alegres que dominaram as rádios do mundo."
+      }
+    ]
+  },
+  {
+    "id": "randy_rhoads",
+    "name": "Randy Rhoads",
+    "era": "Anos 1980",
+    "bio": "Guitarrista prodígio que revolucionou o metal ao unir a teoria clássica europeia ao heavy metal agressivo de Ozzy Osbourne. Randy Rhoads tinha uma abordagem acadêmica e metodológica única, combinando arpegios de Bach com riffs agressivos e shredding selvagem.",
+    "songs": [
+      {
+        "title": "Crazy Train",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Crazy%20Train"
+      },
+      {
+        "title": "Mr. Crowley",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Mr.%20Crowley"
+      },
+      {
+        "title": "Over the Mountain",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Over%20the%20Mountain"
+      },
+      {
+        "title": "Goodbye to Romance",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Goodbye%20to%20Romance"
+      },
+      {
+        "title": "Flying High Again",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Flying%20High%20Again"
+      },
+      {
+        "title": "Diary of a Madman",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Diary%20of%20a%20Madman"
+      },
+      {
+        "title": "I Don't Know",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20I%20Don%27t%20Know"
+      },
+      {
+        "title": "Revelation (Mother Earth)",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Revelation%20Mother%20Earth"
+      },
+      {
+        "title": "Dee",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20Dee"
+      },
+      {
+        "title": "S.A.T.O.",
+        "url": "https://open.spotify.com/search/Randy%20Rhoads%20S.A.T.O."
+      }
+    ],
+    "history": "Randall William Rhoads nasceu em 1956 em Santa Mónica, Califórnia. Filho de professores de música, ele cresceu imerso em teoria musical clássica. Antes de se tornar famoso, ensinava guitarra em uma escola de música de sua mãe. Entrou para a banda de Ozzy Osbourne em 1979 após a dissolução do Black Sabbath com Ozzy, gravando os aclamados álbuns 'Blizzard of Ozz' e 'Diary of a Madman'. Faleceu tragicamente em um acidente aéreo em 1982, aos 25 anos, privando o mundo de um gênio no auge de seu poder.",
+    "importance": "Randy Rhoads foi um dos primeiros a unir sistematicamente a teoria e técnica da música clássica ao heavy metal. Seus solos combinavam arpegios barrocos, escalas neo-clássicas e harmônicos artificiais com a agressividade do metal, criando a base do que ficou conhecido como neo-classical metal. Sua abordagem rigorosa e metodológica inspirou gerações de guitarristas como Yngwie Malmsteen, Dimebag Darrell e muitos outros.",
+    "image": "images/randy_rhoads.png",
+    "videos": [
+      {
+        "title": "Crazy Train (Live After Hours 1981)",
+        "youtubeId": "QRheEAeViSA",
+        "year": "1981",
+        "description": "A lendária performance do riff de introdução mais marcante da carreira solo de Ozzy Osbourne."
+      }
+    ]
+  },
+  {
+    "id": "joe_satriani",
+    "name": "Joe Satriani",
+    "era": "Anos 1980",
+    "bio": "O professor dos professores, Joe Satriani foi mestre de Kirk Hammett (Metallica), Steve Vai e Larry LaLonde. Ele definiu o padrão da guitarra instrumental moderna com seu álbum 'Surfing with the Alien' e popularizou técnicas como harmônicos artificiais e uso melódico do legato.",
+    "songs": [
+      {
+        "title": "Surfing with the Alien",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Surfing%20with%20the%20Alien"
+      },
+      {
+        "title": "Always with Me, Always with You",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Always%20with%20Me%20Always%20with%20You"
+      },
+      {
+        "title": "Flying in a Blue Dream",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Flying%20in%20a%20Blue%20Dream"
+      },
+      {
+        "title": "Summer Song",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Summer%20Song"
+      },
+      {
+        "title": "Satch Boogie",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Satch%20Boogie"
+      },
+      {
+        "title": "The Extremist",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20The%20Extremist"
+      },
+      {
+        "title": "Crystal Planet",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Crystal%20Planet"
+      },
+      {
+        "title": "Until We Say Goodbye",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Until%20We%20Say%20Goodbye"
+      },
+      {
+        "title": "Raspberry Jam Delta-V",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Raspberry%20Jam%20Delta-V"
+      },
+      {
+        "title": "Tears in the Rain",
+        "url": "https://open.spotify.com/search/Joe%20Satriani%20Tears%20in%20the%20Rain"
+      }
+    ],
+    "history": "Joseph Satriani nasceu em 1956 em Westbury, Nova York. Inspirado pela morte de Jimi Hendrix, começou a estudar guitarra seriamente na adolescência. Montou uma escola de guitarra onde ensinou, entre outros, Steve Vai, Kirk Hammett, Larry LaLonde e David Bryson. Em 1987, lançou 'Surfing with the Alien', que se tornou o primeiro álbum instrumental de guitarra a entrar no Top 30 das paradas americanas. Co-fundou o grupo G3 com Steve Vai e Eric Johnson.",
+    "importance": "Joe Satriani é talvez o guitarrista instrumental mais influente de sua geração. Seu domínio técnico — que inclui legato perfeito, harmônicos artificiais, tapping melódico e uso expressivo do vibrato — está aliado a uma capacidade rara de compor melodias instrumentais inesquecíveis. Como professor, seu impacto se multiplica através de seus alunos, que moldaram o rock pesado das décadas seguintes.",
+    "image": "images/joe_satriani.png",
+    "videos": [
+      {
+        "title": "Always with Me, Always with You (Satriani LIVE! 2006)",
+        "youtubeId": "fdPFuPcDzqU",
+        "year": "2006",
+        "description": "Melodia linda e bends emotivos tocados com timbre limpo e espacial de guitarra."
+      }
+    ]
+  },
+  {
+    "id": "slash",
+    "name": "Slash",
+    "era": "Anos 1980/90",
+    "bio": "Em uma época dominada pela velocidade fria dos shredders dos anos 80, Slash trouxe de volta o perigo, a atitude e a essência bluesera do rock clássico com os solos e riffs inesquecíveis do Guns N' Roses, usando sua icônica Gibson Les Paul e cartola preta.",
+    "songs": [
+      {
+        "title": "Sweet Child O' Mine",
+        "url": "https://open.spotify.com/search/Slash%20Sweet%20Child%20O%27%20Mine"
+      },
+      {
+        "title": "November Rain",
+        "url": "https://open.spotify.com/search/Slash%20November%20Rain"
+      },
+      {
+        "title": "Welcome to the Jungle",
+        "url": "https://open.spotify.com/search/Slash%20Welcome%20to%20the%20Jungle"
+      },
+      {
+        "title": "Paradise City",
+        "url": "https://open.spotify.com/search/Slash%20Paradise%20City"
+      },
+      {
+        "title": "Civil War",
+        "url": "https://open.spotify.com/search/Slash%20Civil%20War"
+      },
+      {
+        "title": "Estranged",
+        "url": "https://open.spotify.com/search/Slash%20Estranged"
+      },
+      {
+        "title": "Patience",
+        "url": "https://open.spotify.com/search/Slash%20Patience"
+      },
+      {
+        "title": "Anastasia",
+        "url": "https://open.spotify.com/search/Slash%20Anastasia"
+      },
+      {
+        "title": "Slither",
+        "url": "https://open.spotify.com/search/Slash%20Slither"
+      },
+      {
+        "title": "Double Talkin' Jive",
+        "url": "https://open.spotify.com/search/Slash%20Double%20Talkin%27%20Jive"
+      }
+    ],
+    "history": "Saul Hudson nasceu em 1965 em Londres e cresceu em Los Angeles. Ele se juntou ao Guns N' Roses nos anos 1980, lançando o histórico álbum 'Appetite for Destruction' em 1987. Com sua imagem marcante de cartola preta, óculos escuros e cabelos cacheados cobrindo o rosto, Slash se tornou um dos guitarristas mais reconhecíveis do planeta, liderando o rock mundial por décadas.",
+    "importance": "Na segunda metade dos anos 80, quando a guitarra de rock era dominada pela velocidade fria dos 'shredders', Slash trouxe de volta o perigo, o feeling e a raiz do blues clássico para o mainstream. Seus solos melódicos e riffs marcantes em músicas como 'Sweet Child O' Mine' e 'November Rain' provaram que a agressividade do rock combina perfeitamente com melodias ricas e dramáticas.",
+    "image": "images/slash.png",
+    "videos": [
+      {
+        "title": "Sweet Child O' Mine (Official Music Video 1988)",
+        "youtubeId": "1w7OgIMMRc4",
+        "year": "1988",
+        "description": "O riff e solo inicial que definiram a atitude e o sucesso mundial do Guns N' Roses."
+      },
+      {
+        "title": "November Rain (Official Music Video 1991)",
+        "youtubeId": "8SbUC-UaAxE",
+        "year": "1991",
+        "description": "O emocionante e dramático solo final - um dos mais icônicos da história do rock."
+      }
+    ]
+  },
+  {
+    "id": "tom_morello",
+    "name": "Tom Morello",
+    "era": "Anos 1990/2000",
+    "bio": "Guitarrista do Rage Against the Machine e Audioslave, Tom Morello transformou a guitarra elétrica em uma máquina de efeitos sem usar pedais. Suas técnicas de switch toggling, scratching e kill-switch criaram sons de sintetizador, toca-discos e efeitos eletrônicos puramente com a guitarra.",
+    "songs": [
+      {
+        "title": "Killing in the Name",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Killing%20in%20the%20Name"
+      },
+      {
+        "title": "Bulls on Parade",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Bulls%20on%20Parade"
+      },
+      {
+        "title": "Guerrilla Radio",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Guerrilla%20Radio"
+      },
+      {
+        "title": "Cochise",
+        "url": "https://open.spotify.com/search/Audioslave%20Cochise"
+      },
+      {
+        "title": "Like a Stone",
+        "url": "https://open.spotify.com/search/Audioslave%20Like%20a%20Stone"
+      },
+      {
+        "title": "Calm Like a Bomb",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Calm%20Like%20a%20Bomb"
+      },
+      {
+        "title": "Bombtrack",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Bombtrack"
+      },
+      {
+        "title": "Wake Up",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Wake%20Up"
+      },
+      {
+        "title": "Show Me How to Live",
+        "url": "https://open.spotify.com/search/Audioslave%20Show%20Me%20How%20to%20Live"
+      },
+      {
+        "title": "Bullet in the Head",
+        "url": "https://open.spotify.com/search/Rage%20Against%20the%20Machine%20Bullet%20in%20the%20Head"
+      }
+    ],
+    "history": "Thomas Baptist Morello nasceu em 1964 em Harlem, Nova York. Formado em Ciência Política por Harvard, ele co-fundou o Rage Against the Machine em Los Angeles em 1991. A banda fundia o rock pesado com rap e letras de protesto político, tornando-se um fenômeno cultural. Após a dissolução temporária do RATM, Morello formou o Audioslave com Chris Cornell. Ele também tem uma carreira solo acústica como 'The Nightwatchman', focada em folk de protesto.",
+    "importance": "Tom Morello redefiniu os limites sonoros da guitarra elétrica. Sem usar sintetizadores ou samplers, ele criou sons de DJs de hip-hop, máquinas de ruído industrial e efeitos eletrônicos usando apenas a guitarra, o amplificador e técnicas manuais como o kill-switch (ligar/desligar o volume rapidamente), o toggle switch para criar ritmos e o scratching das cordas. Seu estilo é único e inimitável.",
+    "image": "images/tom_morello.png",
+    "videos": []
+  },
+  {
+    "id": "steve_vai",
+    "name": "Steve Vai",
+    "era": "Anos 1990",
+    "bio": "Estudante prodígio de Joe Satriani e transcritor de Frank Zappa, Steve Vai levou a guitarra instrumental ao extremo da técnica e da excentricidade. Ele popularizou as guitarras de 7 cordas e combinou técnicas acrobáticas com um profundo senso espiritual e performático.",
+    "songs": [
+      {
+        "title": "For the Love of God",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20For%20the%20Love%20of%20God"
+      },
+      {
+        "title": "Tender Surrender",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Tender%20Surrender"
+      },
+      {
+        "title": "The Audience Is Listening",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20The%20Audience%20Is%20Listening"
+      },
+      {
+        "title": "Bad Horsie",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Bad%20Horsie"
+      },
+      {
+        "title": "Die to Live",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Die%20to%20Live"
+      },
+      {
+        "title": "Building the Church",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Building%20the%20Church"
+      },
+      {
+        "title": "Juice",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Juice"
+      },
+      {
+        "title": "Whispering a Prayer",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Whispering%20a%20Prayer"
+      },
+      {
+        "title": "Liberty",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Liberty"
+      },
+      {
+        "title": "Answers",
+        "url": "https://open.spotify.com/search/Steve%20Vai%20Answers"
+      }
+    ],
+    "history": "Steven Siro Vai nasceu em 1960 em Nova York. Começou a estudar guitarra com Joe Satriani e estudou na renomada Berklee College of Music. Foi contratado por Frank Zappa como 'transcritor de partes impossíveis' e guitarrista de apoio. Vai tocou em bandas como Alcatrazz, Whitesnake e na banda solo de David Lee Roth antes de consolidar uma carreira instrumental solo consagrada com o álbum 'Passion and Warfare' em 1990.",
+    "importance": "Steve Vai levou a guitarra instrumental ao auge da técnica, expressão e excentricidade. Ele ajudou a projetar a primeira guitarra de 7 cordas de produção em massa (a Ibanez Universe) e a icônica Ibanez JEM com a alça 'monkey grip'. Sua técnica combina licks acrobáticos com uso expressivo da alavanca e um controle dinâmico que faz a guitarra parecer falar e chorar.",
+    "image": "images/steve_vai.png",
+    "videos": [
+      {
+        "title": "For The Love Of God - At The Astoria From The DVD",
+        "youtubeId": "ICaPcaxqwvs",
+        "year": "2001",
+        "description": ""
+      },
+      {
+        "title": "Tender Surrender - From The DVD WTWTA 2009",
+        "youtubeId": "blG-Ki-qDzo",
+        "year": "2009",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "john_frusciante",
+    "name": "John Frusciante",
+    "era": "Anos 1990/2000",
+    "bio": "O guitarrista dos Red Hot Chili Peppers provou que a economia de notas e a emoção crua podem ser mais poderosas que a velocidade pura. Seu estilo combina grooves de funk sincopados, melodias minimalistas melancólicas e timbres analógicos puros.",
+    "songs": [
+      {
+        "title": "Under the Bridge",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Under%20the%20Bridge"
+      },
+      {
+        "title": "Californication",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Californication"
+      },
+      {
+        "title": "Scar Tissue",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Scar%20Tissue"
+      },
+      {
+        "title": "Snow (Hey Oh)",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Snow%20%28Hey%20Oh%29"
+      },
+      {
+        "title": "Can't Stop",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Can%27t%20Stop"
+      },
+      {
+        "title": "Dani California",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Dani%20California"
+      },
+      {
+        "title": "Otherside",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Otherside"
+      },
+      {
+        "title": "Soul to Squeeze",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Soul%20to%20Squeeze"
+      },
+      {
+        "title": "Murderers",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20Murderers"
+      },
+      {
+        "title": "The Past Recedes",
+        "url": "https://open.spotify.com/search/John%20Frusciante%20The%20Past%20Recedes"
+      }
+    ],
+    "history": "John Anthony Frusciante nasceu em 1970 em Nova York. Juntou-se ao Red Hot Chili Peppers aos 18 anos, trazendo um som de guitarra refinado e melódico nos álbuns 'Mother's Milk' e 'Blood Sugar Sex Magik'. Após batalhas contra a dependência química e períodos de isolamento, ele retornou à banda em 1998 para gravar o aclamado 'Californication', iniciando um dos retornos mais celebrados do rock.",
+    "importance": "Frusciante é o mestre da economia de notas no rock alternativo. Ele provou que texturas minimalistas, acordes abertos e grooves funkeados sincopados podem ser mais impactantes do que solos velozes. Seu estilo é centrado na emoção pura, uso inteligente do silêncio, timbres analógicos vintage de Stratocaster e vocais de apoio harmoniosos que definiram a sonoridade do RHCP.",
+    "image": "images/john_frusciante.png",
+    "videos": [
+      {
+        "title": "Under the Bridge (RHCP Live)",
+        "youtubeId": "GLvohMXgcBo",
+        "year": "2003",
+        "description": "Dedilhado limpo e os marcantes backings vocais de John que dão a assinatura emocional da faixa."
+      },
+      {
+        "title": "Californication (RHCP Live Slane Castle 2003)",
+        "youtubeId": "Q0oIoR9mLwc",
+        "year": "2003",
+        "description": "O improviso emocionante e melódico de Frusciante em Slane Castle, Irlanda."
+      }
+    ]
+  },
+  {
+    "id": "tosin_abasi",
+    "name": "Tosin Abasi",
+    "era": "Anos 2010",
+    "bio": "Pioneiro da guitarra progressiva moderna, Tosin Abasi elevou o instrumento de 8 cordas a novas alturas com o Animals as Leaders. Ele misturou influências de jazz fusion, metal extremo, e adaptou técnicas de contrabaixo como o 'thumping' (slap duplo) para criar texturas rítmicas inéditas.",
+    "songs": [
+      {
+        "title": "Physical Education",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Physical%20Education"
+      },
+      {
+        "title": "Cafo",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Cafo"
+      },
+      {
+        "title": "The Brain Dance",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20The%20Brain%20Dance"
+      },
+      {
+        "title": "Anarchy",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Anarchy"
+      },
+      {
+        "title": "Wave of Babies",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Wave%20of%20Babies"
+      },
+      {
+        "title": "Ectogenesis",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Ectogenesis"
+      },
+      {
+        "title": "Tooth and Claw",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Tooth%20and%20Claw"
+      },
+      {
+        "title": "Woven Web",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Woven%20Web"
+      },
+      {
+        "title": "Kascade",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Kascade"
+      },
+      {
+        "title": "Monomyth",
+        "url": "https://open.spotify.com/search/Tosin%20Abasi%20Monomyth"
+      }
+    ],
+    "history": "Oluwatosin Ayoyinka Olumide Abasi nasceu em 1983 em Washington, D.C. Ele tocou em bandas de metalcore antes de fundar o trio instrumental progressivo Animals as Leaders em 2007. Abasi estudou jazz na Atlanta Institute of Music e aplicou esse conhecimento harmônico à música extrema. Ele fundou sua própria marca de guitarras, a Abasi Concepts, focada em designs ergonômicos e inovadores.",
+    "importance": "Tosin Abasi é o principal pioneiro da guitarra progressiva e do djent moderno de 8 cordas. Ele revolucionou a técnica de 'thumping' (slap duplo com o polegar adaptado de baixistas como Victor Wooten) no braço da guitarra. Abasi fundiu harmonias complexas de jazz fusion com a agressividade do metal progressivo e ritmos matemáticos, redefinindo as possibilidades físicas e teóricas do instrumento no século XXI.",
+    "image": "images/tosin_abasi.png",
+    "videos": [
+      {
+        "title": "CAFO (Live from Las Vegas 2017)",
+        "youtubeId": "2Sii4SBj-qs",
+        "year": "2017",
+        "description": "A canção que revelou Tosin ao mundo, com técnica de thumping e polirritmia extrema ao vivo."
+      },
+      {
+        "title": "Tempting Time (Live from Nashville 2017)",
+        "youtubeId": "potuYDI1iTw",
+        "year": "2017",
+        "description": "Demonstração ao vivo de polirritmia e solos de tapping extremamente rápidos em sua guitarra de 8 cordas."
+      }
+    ]
+  }
+]
