@@ -700,6 +700,8 @@ body {
 .video-timeline-item {
   position: relative;
   margin-bottom: 3rem;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .video-timeline-item:last-child {
@@ -753,6 +755,9 @@ body {
   border-radius: 16px;
   padding: 1.5rem;
   transition: var(--transition-smooth);
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 .video-timeline-item:hover .video-timeline-content {
@@ -779,6 +784,7 @@ body {
 .video-player-wrapper {
   position: relative;
   width: 100%;
+  max-width: 100%;
   aspect-ratio: 16 / 9;
   border-radius: 12px;
   overflow: hidden;
@@ -786,6 +792,7 @@ body {
   background: #000;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   transition: var(--transition-smooth);
+  box-sizing: border-box;
 }
 
 .video-timeline-item:hover .video-player-wrapper {
@@ -964,6 +971,13 @@ body {
   }
   .profile-section {
     padding: 1.5rem;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .profile-main {
+    max-width: 100%;
+    overflow: hidden;
   }
   
   /* Responsive row adjustments */
@@ -1030,3 +1044,29 @@ body {
     height: 18px;
   }
 }
+
+/* Optimize Spotify buttons on mobile screens to prevent wrapping and reduce clunkiness */
+@media (max-width: 576px) {
+  .track-item {
+    padding: 0.7rem 0.9rem;
+  }
+  .spotify-link-btn {
+    padding: 0;
+    border-radius: 50%;
+    width: 2.2rem;
+    height: 2.2rem;
+    min-width: 2.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+  }
+  .spotify-link-btn span {
+    display: none;
+  }
+  .spotify-link-btn svg {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+}
+

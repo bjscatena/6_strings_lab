@@ -445,6 +445,12 @@
         "youtubeId": "sjzZh6-h9fM",
         "year": "1969",
         "description": "A lendária reinterpretação distorcida do hino dos EUA que capturou o caos e protesto da Guerra do Vietnã."
+      },
+      {
+        "title": "Voodoo Child (Slight Return) (Live in Maui 1970)",
+        "youtubeId": "qFfnlYbFEiE",
+        "year": "1970",
+        "description": "Performance lendária de Hendrix nas encostas do vulcão Haleakala, no Havaí."
       }
     ]
   },
@@ -628,7 +634,20 @@
     "history": "Eric Patrick Clapton nasceu em 1945 na Inglaterra. Ele ganhou fama na década de 1960 tocando com os Yardbirds, John Mayall & the Bluesbreakers, e depois co-fundando o Cream, o primeiro supergrupo do rock. Famoso por sua dedicação ao blues tradicional, Clapton teve uma carreira solo brilhante marcada por superações pessoais e sucessos icônicos como 'Layla' e 'Tears in Heaven'.",
     "importance": "Apelidado de 'Slowhand', Clapton foi um dos principais responsáveis pela popularização do blues-rock britânico. Ele definiu o timbre clássico de rock ('Woman Tone') ao ligar uma Gibson Les Paul em amplificadores Marshall saturados. Seu estilo focado no fraseado melódico, bends emotivos e controle preciso de vibrato criou uma escola inteira de guitarristas.",
     "image": "images/eric_clapton.png",
-    "videos": []
+    "videos": [
+      {
+        "title": "Layla (Acoustic Live MTV Unplugged 1992)",
+        "youtubeId": "fX5USg8_1gA",
+        "year": "1992",
+        "description": "A clássica versão acústica que conquistou o Grammy, gravada nos estúdios da MTV."
+      },
+      {
+        "title": "Wonderful Tonight (Official Live)",
+        "youtubeId": "vUSzL2leaFM",
+        "year": "1999",
+        "description": "Performance emocionante de Wonderful Tonight ao vivo no Crossroads Centre Benefit."
+      }
+    ]
   },
   {
     "id": "jimmy_page",
@@ -816,6 +835,12 @@
         "youtubeId": "cen1SvpTsYk",
         "year": "1970",
         "description": "Apresentação de TV clássica do Sabbath performando seu maior clássico com ritmo furioso."
+      },
+      {
+        "title": "Iron Man (Live Gathered in Their Masses 2013)",
+        "youtubeId": "kpmZHxTLG68",
+        "year": "2013",
+        "description": "Performance ao vivo e pesada de Iron Man no show de reunião em Melbourne."
       }
     ]
   },
@@ -1005,6 +1030,12 @@
         "youtubeId": "KC5H9P4F5Uk",
         "year": "1983",
         "description": "A lendária performance onde SRV toca a pesada Fender Stratocaster com força e virtuosismo incomparáveis."
+      },
+      {
+        "title": "Pride & Joy (Official Audio)",
+        "youtubeId": "NU9JoFKlaZ0",
+        "year": "1983",
+        "description": "Áudio oficial do aclamado clássico Pride & Joy."
       }
     ]
   },
@@ -1064,6 +1095,12 @@
         "youtubeId": "SwYN7mTi6HM",
         "year": "1984",
         "description": "Eddie combinando sintetizadores pop com solos velozes e alegres que dominaram as rádios do mundo."
+      },
+      {
+        "title": "Eruption (Official Audio)",
+        "youtubeId": "z_lwocmL9dQ",
+        "year": "1978",
+        "description": "O solo instrumental clássico e revolucionário que redefiniu a guitarra de rock."
       }
     ]
   },
@@ -1123,6 +1160,12 @@
         "youtubeId": "QRheEAeViSA",
         "year": "1981",
         "description": "A lendária performance do riff de introdução mais marcante da carreira solo de Ozzy Osbourne."
+      },
+      {
+        "title": "Mr. Crowley (Live at Southampton 1980)",
+        "youtubeId": "-j4m0Tiaw7g",
+        "year": "1980",
+        "description": "A histórica performance ao vivo de Mr. Crowley com os lendários solos de Randy Rhoads."
       }
     ]
   },
@@ -1182,6 +1225,12 @@
         "youtubeId": "fdPFuPcDzqU",
         "year": "2006",
         "description": "Melodia linda e bends emotivos tocados com timbre limpo e espacial de guitarra."
+      },
+      {
+        "title": "Surfing with the Alien (Satriani LIVE! 2006)",
+        "youtubeId": "w33tKkiD6kk",
+        "year": "2006",
+        "description": "A eletrizante versão ao vivo do clássico instrumental supremo de Satriani."
       }
     ]
   },
@@ -1300,7 +1349,20 @@
     "history": "Thomas Baptist Morello nasceu em 1964 em Harlem, Nova York. Formado em Ciência Política por Harvard, ele co-fundou o Rage Against the Machine em Los Angeles em 1991. A banda fundia o rock pesado com rap e letras de protesto político, tornando-se um fenômeno cultural. Após a dissolução temporária do RATM, Morello formou o Audioslave com Chris Cornell. Ele também tem uma carreira solo acústica como 'The Nightwatchman', focada em folk de protesto.",
     "importance": "Tom Morello redefiniu os limites sonoros da guitarra elétrica. Sem usar sintetizadores ou samplers, ele criou sons de DJs de hip-hop, máquinas de ruído industrial e efeitos eletrônicos usando apenas a guitarra, o amplificador e técnicas manuais como o kill-switch (ligar/desligar o volume rapidamente), o toggle switch para criar ritmos e o scratching das cordas. Seu estilo é único e inimitável.",
     "image": "images/tom_morello.png",
-    "videos": []
+    "videos": [
+      {
+        "title": "Bulls on Parade (Official Music Video 1996)",
+        "youtubeId": "3L4YrGaR8E4",
+        "year": "1996",
+        "description": "Riffs explosivos e o inovador solo simulando scratching de DJ usando o toggle switch da guitarra."
+      },
+      {
+        "title": "Like a Stone (Official Music Video 2003)",
+        "youtubeId": "7QU1nvuxaMA",
+        "year": "2003",
+        "description": "O marcante solo de guitarra de Morello usando o pedal Whammy para alcançar timbres agudos espaciais com o Audioslave."
+      }
+    ]
   },
   {
     "id": "steve_vai",
@@ -1494,6 +1556,136 @@
         "youtubeId": "potuYDI1iTw",
         "year": "2017",
         "description": "Demonstração ao vivo de polirritmia e solos de tapping extremamente rápidos em sua guitarra de 8 cordas."
+      }
+    ]
+  },
+  {
+    "id": "mateus_asato",
+    "name": "Mateus Asato",
+    "era": "Atualidade",
+    "bio": "Considerado um dos guitarristas mais influentes da era das redes sociais, Mateus Asato redefiniu a guitarra neo-soul e fingerstyle com seu fraseado melódico único, acordes abertos inspirados no gospel e uma sensibilidade pop contemporânea que cativou milhões de seguidores.",
+    "songs": [
+      {
+        "title": "The Breakup Song",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20The%20Breakup%20Song"
+      },
+      {
+        "title": "HENDRIX",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20HENDRIX"
+      },
+      {
+        "title": "Time",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20Time"
+      },
+      {
+        "title": "Cryin'",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20Cryin"
+      },
+      {
+        "title": "Kawaii",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20Kawaii"
+      },
+      {
+        "title": "North",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20North"
+      },
+      {
+        "title": "Don't Dream It's Over",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20Don%27t%20Dream%20It%27s%20Over"
+      },
+      {
+        "title": "Change",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20Change"
+      },
+      {
+        "title": "Emotional Pt. II",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20Emotional%20Pt.%20II"
+      },
+      {
+        "title": "The Healer",
+        "url": "https://open.spotify.com/search/Mateus%20Asato%20The%20Healer"
+      }
+    ],
+    "history": "Mateus Asato nasceu em 1993 em Campo Grande, Brasil. Começou a tocar violão aos 9 anos e migrou para a guitarra aos 10. Em 2013, mudou-se para Los Angeles para estudar no Musicians Institute, onde foi coroado o guitarrista do ano. Ele ganhou enorme notoriedade mundial através de vídeos curtos no Instagram, mostrando arranjos altamente complexos e extremamente melódicos. Já excursionou e colaborou com grandes estrelas pop como Jessie J, Bruno Mars (Silk Sonic), Tori Kelly e Selena Gomez.",
+    "importance": "Asato é apontado por publicações especializadas como um dos guitarristas mais influentes da história recente. Ele provou que as mídias sociais poderiam lançar uma nova geração de heróis da guitarra. Seu estilo combina double stops inspiradas no R&B/gospel, dedilhado híbrido refinado, bends expressivos com afinação precisa e um fraseado vocal que faz a guitarra literalmente cantar, influenciando milhares de guitarristas neo-soul ao redor do mundo.",
+    "image": "images/mateus_asato.png",
+    "videos": [
+      {
+        "title": "The Cure (Official Performance Video)",
+        "youtubeId": "PmTIi3BGr94",
+        "year": "2021",
+        "description": "Uma das performances solo mais cativantes de Asato, demonstrando seu fraseado neo-soul extremamente melódico."
+      },
+      {
+        "title": "HENDRIX (Official Music Video)",
+        "youtubeId": "8Q8CONlpOoo",
+        "year": "2026",
+        "description": "Composição instrumental eletrizante mostrando a incrível fluidez melódica de Asato."
+      }
+    ]
+  },
+  {
+    "id": "tim_henson",
+    "name": "Tim Henson",
+    "era": "Atualidade",
+    "bio": "Guitarrista e cofundador da banda Polyphia, Tim Henson revolucionou a guitarra instrumental na década de 2020 ao misturar a técnica virtuosística do rock progressivo com batidas de trap, elements de hip-hop, música eletrônica e pop, criando uma assinatura visual e sonora inconfundível.",
+    "songs": [
+      {
+        "title": "Playing God",
+        "url": "https://open.spotify.com/search/Polyphia%20Playing%20God"
+      },
+      {
+        "title": "G.O.A.T.",
+        "url": "https://open.spotify.com/search/Polyphia%20GOAT"
+      },
+      {
+        "title": "ABC (feat. Sophia Black)",
+        "url": "https://open.spotify.com/search/Polyphia%20ABC"
+      },
+      {
+        "title": "Ego Death (feat. Steve Vai)",
+        "url": "https://open.spotify.com/search/Polyphia%20Ego%20Death"
+      },
+      {
+        "title": "Genesis (feat. Brasstracks)",
+        "url": "https://open.spotify.com/search/Polyphia%20Genesis"
+      },
+      {
+        "title": "Chimera (feat. Lil West)",
+        "url": "https://open.spotify.com/search/Polyphia%20Chimera"
+      },
+      {
+        "title": "40oz",
+        "url": "https://open.spotify.com/search/Polyphia%2040oz"
+      },
+      {
+        "title": "Champagne",
+        "url": "https://open.spotify.com/search/Polyphia%20Champagne"
+      },
+      {
+        "title": "Saucy",
+        "url": "https://open.spotify.com/search/Polyphia%20Saucy"
+      },
+      {
+        "title": "O.D.",
+        "url": "https://open.spotify.com/search/Polyphia%20OD"
+      }
+    ],
+    "history": "Tim Henson nasceu em 1993 no Texas, EUA. Criado em uma família de músicos, começou com o violino antes de focar na guitarra. Fundou a banda instrumental Polyphia em 2010. Inicialmente focada em metal técnico, a banda encontrou sua identidade definitiva ao integrar influências urbanas contemporâneas. Henson tornou-se uma celebridade do YouTube e das redes sociais, conhecido por seus vídeos de performance impecáveis e seu design de guitarra Ibanez TOD10N de nylon.",
+    "importance": "Tim Henson redefiniu a guitarra instrumental para a Geração Z. Ele é um dos principais pioneiros do estilo 'boom-bap' e trap-rock na guitarra, utilizando harmônicos artificiais cirúrgicos, hybrid picking extremamente veloz, afinação de nylon eletroacústica e compassos polirrítmicos sobre beats de trap eletrônico. Seu estilo vanguardista influenciou uma geração inteira a enxergar a guitarra como um instrumento moderno e integrado à música eletrônica e ao pop.",
+    "image": "images/tim_henson.png",
+    "videos": [
+      {
+        "title": "Playing God (Official Music Video)",
+        "youtubeId": "Z5NoQg8LdDk",
+        "year": "2022",
+        "description": "O vídeo histórico que popularizou a guitarra com cordas de nylon e redefiniu a técnica moderna com milhões de visualizações."
+      },
+      {
+        "title": "Ego Death (feat. Steve Vai) (Official Music Video)",
+        "youtubeId": "Slt5mufji8U",
+        "year": "2022",
+        "description": "Uma colaboração épica com a lenda da guitarra Steve Vai, unindo duas gerações de virtuosos do instrumento."
       }
     ]
   }
